@@ -5,7 +5,7 @@ description: Rachel's Resume
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
 url: https://gsantella.github.io/cvless/
-baseurl: "cvless"
+baseurl: Rachel
 permalink: pretty
 repo: https://github.com/gsantella/cvless
 
