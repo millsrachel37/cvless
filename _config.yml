@@ -2,7 +2,7 @@
 
 title: Rachel
 description: Rachel's Resume
-taglong: My resume
+taglong: resume
 tagshort: Jekyll theme
 url: https://gsantella.github.io/cvless/
 baseurl: Rachel
@@ -24,7 +24,7 @@ social:
   instagram: 
   linkedin: username
   stackoverflow: 0000000/username
-  twitter: username
+  twitter: millsrachel37
 
 # build settings
 
