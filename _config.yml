@@ -1,7 +1,7 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Rachel
+description: Rachel's Resume
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
 url: https://gsantella.github.io/cvless/
@@ -21,7 +21,7 @@ photo: /assets/jpg/photo.jpg
 social:
   facebook: adam.lacue
   github: username
-  instagram: username
+  instagram: 
   linkedin: username
   stackoverflow: 0000000/username
   twitter: username
